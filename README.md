@@ -1,2 +1,2 @@
-# PhotoWall
-this is a beautiful Photo Wall
+# 精美照片墙展示
+用到了jquery,并且在原型链上进行编程，呈现出很好的视觉效果。
